@@ -1,0 +1,14 @@
+*{
+    padding: 1;
+    margin: 1 ;
+}
+body{
+color:grey
+}
+.titulo{
+    text-align: center;
+}
+.sites{
+    font-size: 20px;
+    margin:0px;
+}
