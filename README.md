@@ -1,6 +1,6 @@
 # Projetos Escolares – Marcio Caio
 
-Este repositório reúne alguns dos principais projetos desenvolvidos durante meus estudos. Os projetos foram feitos com foco em praticar HTML, CSS e JavaScript, além de aplicar conhecimentos sobre estruturação de páginas e interatividade.
+Este repositório reúne alguns dos principais projetos desenvolvidos durante meus estudos. Os projetos foram feitos com foco em praticar HTML e um pouco de CSS, além de aplicar conhecimentos sobre estruturação de páginas e interatividade.
 
 ## 📚 Projetos Desenvolvidos
 
@@ -27,7 +27,7 @@ Uma página principal que serve como índice, fazendo a ligação entre todos os
 ## 💡 Objetivos
 Esses projetos foram criados com o intuito de:
 - Aprender e praticar a criação de páginas web;
-- Explorar conceitos básicos de front-end;
+- Explorar conceitos básicos de html;
 - Desenvolver organização de código e estrutura de navegação.
 
 
