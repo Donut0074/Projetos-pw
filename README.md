@@ -11,16 +11,16 @@ Uma página simples contendo minhas informações profissionais e acadêmicas, o
 É uma lista de compras.
 
 ### 📝 Formulário (1)
-Formulário de cadastro simples, com campos básicos como nome, e-mail e senha. Utiliza validações básicas.
+Formulário de cadastro simples, com campos básicos como nome e senha, coisas favorias etc. Utiliza validações básicas.
 
 ### 📝 Formulário (2)
 Formulário para cadastro de livros.
 
 ### 🕒 Lista de Horários das Aulas
-Tabela organizada com os horários das aulas semanais. Projeto útil para praticar tabelas HTML e estruturação com CSS.
+Tabela organizada com os horários das aulas semanais. Projeto útil para praticar tabelas HTML.
 
 ### 🔗 Página de Navegação
-Uma página principal que serve como índice, fazendo a ligação entre todos os outros projetos para facilitar o acesso.
+Uma página principal que serve como índice, fazendo a ligação entre todos os outros projetos para facilitar o acesso, tendo um link em cada página para poder leva-lo até ela.
 
 ---
 
